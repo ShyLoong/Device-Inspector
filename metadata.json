@@ -1,0 +1,6 @@
+{
+  "name": "Device Inspector",
+  "description": "A risk analysis tool to gather device information and identify distinct devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
